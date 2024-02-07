@@ -1,0 +1,2 @@
+# sue-o
+REDES NEURONALES
